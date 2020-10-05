@@ -1,0 +1,11 @@
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\bin\Debug\ElisaTVKuvaSelain.exe.config
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\bin\Debug\ElisaTVKuvaSelain.exe
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\bin\Debug\ElisaTVKuvaSelain.pdb
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\bin\Debug\ElisaTVKuvaSelain.xml
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\obj\Debug\ElisaTVKuvaSelain.vbprojAssemblyReference.cache
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\obj\Debug\ElisaTVKuvaSelain.Form1.resources
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\obj\Debug\ElisaTVKuvaSelain.Resources.resources
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\obj\Debug\ElisaTVKuvaSelain.vbproj.GenerateResource.cache
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\obj\Debug\ElisaTVKuvaSelain.exe
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\obj\Debug\ElisaTVKuvaSelain.xml
+C:\Users\Eemeli\Desktop\Coding\Other\ElisaTVKuvaSelain\ElisaTVKuvaSelain\obj\Debug\ElisaTVKuvaSelain.pdb
